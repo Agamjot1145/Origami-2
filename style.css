@@ -1,0 +1,26 @@
+/* .grid img{
+    border:2px solid black;
+    border-radius:50px;
+} */
+
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:white;  
+}
+
+body{
+    background-color:black;
+}
+
+.bodyimg{
+    font-size:25px;
+    font-family:Georgia;
+    color:red;
+    justify-content:space-between;
+    text-align:center;
+}
